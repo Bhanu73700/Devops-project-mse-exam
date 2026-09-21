@@ -1,0 +1,5 @@
+aws_region     = "us-east-1"
+environment    = "dev"
+project_name   = "multi-env-app"
+instance_type  = "t3.micro"
+instance_count = 1
